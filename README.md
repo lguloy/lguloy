@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**lguloy/lguloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lawrence Guloy and I am a Data Analyst who is transitioning from the engineering career. This Github page will have projects that I have done to improve on my skills in Python, JavaScript, HTML/CSS and various other programming skills toclean, visualize, analyze data sets using statistical analysis.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a GitHub page for my own Bio. I plan on having this done by the end of the week
+- 🌱 I’m currently learning Machine Learning/Deep Learning
+
+- 📫 How to reach me: 
+-   ljguloy@gmail.com
+-   410-979-0440
+-   linkedin: https://www.linkedin.com/in/lawrenceguloy/
+- 
+- 😄 Pronouns: he/him
+-
+
